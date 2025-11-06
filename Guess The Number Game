@@ -29,7 +29,7 @@ char playAgain = 'y' ;
     
     
     do {
-        "cout << Enter your guess :";
+        cout <<" Enter your guess :";
         cin >> guess;
         tries ++;
         
